@@ -6,6 +6,6 @@
 
 
 - 🔭 I’m currently working on enhancing my skills in **Android Development**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eve-nyambura-7bb20422a)...
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eve-nyambura-7bb20422a)
 ![Stay Guided](image/facts.jpg)
 
